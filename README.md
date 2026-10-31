@@ -114,7 +114,7 @@ SVM was selected as the final model for predicting Low Disease Risk and High Dis
 | File | Description |
 |---|---|
 | `generate_dataset.py` | Python code used to generate the synthetic dataset. |
-| `pineapple_disease_risk.csv` | Generated dataset containing 2,000 records. |
+| `pineapple_disease_risk.csv` | Generated dataset containing 600 records. |
 | `pineapple_disease_classification.ipynb` | Google Colab notebook containing EDA, preprocessing, model training, evaluation, and interactive predictions. |
 | `README.md` | Documentation and overview of the project. |
 
